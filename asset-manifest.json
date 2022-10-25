@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/forestpemarvel/static/css/main.e4e6ec41.chunk.css",
+    "main.js": "/forestpemarvel/static/js/main.cec57541.chunk.js",
+    "main.js.map": "/forestpemarvel/static/js/main.cec57541.chunk.js.map",
+    "runtime-main.js": "/forestpemarvel/static/js/runtime-main.927453fd.js",
+    "runtime-main.js.map": "/forestpemarvel/static/js/runtime-main.927453fd.js.map",
+    "static/js/2.a26fdf47.chunk.js": "/forestpemarvel/static/js/2.a26fdf47.chunk.js",
+    "static/js/2.a26fdf47.chunk.js.map": "/forestpemarvel/static/js/2.a26fdf47.chunk.js.map",
+    "index.html": "/forestpemarvel/index.html",
+    "static/css/main.e4e6ec41.chunk.css.map": "/forestpemarvel/static/css/main.e4e6ec41.chunk.css.map",
+    "static/js/2.a26fdf47.chunk.js.LICENSE.txt": "/forestpemarvel/static/js/2.a26fdf47.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/forestpemarvel/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/forestpemarvel/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/forestpemarvel/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.927453fd.js",
+    "static/js/2.a26fdf47.chunk.js",
+    "static/css/main.e4e6ec41.chunk.css",
+    "static/js/main.cec57541.chunk.js"
+  ]
+}
